@@ -1,0 +1,49 @@
+body{
+    background-image: url("img2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: white;
+    height: 100vh;
+}
+.navbar{
+    
+    margin-left: 550px;
+    
+}
+.margin{
+    margin: 50px;
+    background-color: rgb(77, 64, 77);
+    color: white;
+    padding: 8px;
+    text-decoration: none;
+}
+#italic{
+    font-style: italic;
+    font-size: small;
+    
+}
+.maindiv{
+    background-color: black;
+    opacity: 0.7;
+    width: 40%;
+    height: 500px;
+    padding-top: 100px;
+    padding-left: 5%;
+    text-align: center;
+    
+    
+}
+#button{
+    background-color: rgb(204, 148, 115);
+    text-transform: uppercase;
+    margin-left: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+menu.body{
+    background-color: cornflowerblue;
+}
+.titre{
+    font-style: inherit;
+    font-size: x-large;
+}

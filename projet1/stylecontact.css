@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(153, 202, 190);
+}
+#contact{
+    text-transform: uppercase;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
+.navbar{
+    text-align: center;
+    
+}
+.margin{
+    margin: 50px;
+    background-color: rgb(77, 64, 77);
+    color: white;
+    padding: 8px;
+    text-decoration: none;
+
+}
+.form{
+    padding: 30px;
+    border-radius: 10px;
+    background-color: white;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+#envoyer{
+    margin-left: 100px;
+    background-color: rgb(153, 202, 190);
+    padding-left: 10%;
+    padding-right: 10%;
+
+}
+.input1{
+    margin-left: 5px;
+}
+
+.input3{
+    margin-left: 65px;
+}
+.options{
+    margin-left: 10%;
+}
+.gras{
+    margin-left: 30px;
+}
+.inputt{
+    margin-left: 40px;
+}
